@@ -1,0 +1,17 @@
+# Copia este archivo como "token.txt" y pega aquí el TOKEN DE BOT.
+#
+# Cómo conseguir el token (es LEGAL, no es un selfbot):
+#   1. Entra a https://discord.com/developers/applications
+#   2. New Application → ponle nombre (ej: Choppa)
+#   3. Pestaña "Bot" → "Reset Token" → copia el token
+#   4. Pestaña "Bot" → desactiva "Public Bot" si no quieres que otros lo inviten
+#   5. IMPORTANTE: en "Bot" activa el toggle "MESSAGE CONTENT INTENT",
+#      si no, los comandos con "!" no funcionarán.
+#   6. Invita el bot a tu servidor con el enlace que está en el README.md
+#      (necesita el permiso "Gestionar apodos" / Manage Nicknames).
+#
+# El token de bot NUNCA es el token de tu cuenta personal.
+# Es una credencial secreta: ¡no la compartas ni la subas a GitHub!
+#
+# Ejemplo (NO es un token real):
+# MTIzNDU2Nzg5MDEyMzQ1Njc4OQ.GxYzAb.example_token_here
